@@ -46,6 +46,6 @@
   <a href = "mailto:jb.mais@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonathan-s-melo-b10695230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/<jonhbass>/<jonhbass>/blob/output/github-contribution-grid-snake2.svg)
  
 </div>

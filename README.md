@@ -1,14 +1,19 @@
 ### Olá, Tudo bem?! 👋
 #### Seja muito bem vindo ao meu perfil!
 
-- 🔭 Estou atualmente trabalhando na 2U studios e fazendo projetos para plataformas de trabalhos remotos...
-- 🌱 Cursando o 5º periodo de Engenharia de Software ...
-- 👯 Estou exercendo trabalhos de Full-Stack e UX/UI designer...
-- 🤔 Procuro experiência profissional ...
-- 📫 Sou apaixonado por tecnologia desde criança, sempre  da área de games tendo feito 
-  cursos de desenvolvimeto e programação de jogos digitais. Desde então tenho desenvolvido projetos pessoais
-  e freelancers.
-- ⚡ Curiosidades pessoais: Sou de Recife/PE, Músico Profissonal, Desenhista de Ilustração, Animação e interfaçes.
+"🚀 Olá, bem-vindo ao meu mundo de tecnologia e criatividade! 🎮
+
+Atualmente, estou embarcando em uma emocionante jornada como parte da equipe da 2U Studios, onde dedico meus esforços para criar projetos incríveis para plataformas de trabalhos remotos. 💼 Além disso, estou avançando em meus estudos em Engenharia de Software, atualmente no 5º período, para aprimorar ainda mais meus conhecimentos e habilidades.
+
+🌱 Sou um entusiasta da inovação e estou desempenhando trabalhos de Full-Stack e UX/UI Designer, unindo o melhor dos dois mundos: a funcionalidade impecável com uma experiência visual deslumbrante.
+
+🤔 Estou em busca de oportunidades para ganhar experiência profissional e colaborar em projetos empolgantes que possam deixar uma marca no mundo digital.
+
+📫 Desde criança, meu coração bate mais forte pela tecnologia, especialmente na área de games. Com diversos cursos de desenvolvimento e programação de jogos digitais, tenho alimentado minha paixão ao longo dos anos e materializado minha criatividade em projetos pessoais e freelancers.
+
+⚡ Curiosidades sobre mim: Sou um orgulhoso recifense, além de ser um músico profissional e um talentoso desenhista de ilustrações, animações e interfaces, elevando a estética dos meus projetos a um nível além do convencional.
+
+Venha explorar o mundo tecnológico e artístico comigo! Estou animado para aprender, crescer e criar experiências impactantes. Vamos juntos construir o futuro digital! 🚀🎨🎵"
 
 ##
 

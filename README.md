@@ -1,19 +1,19 @@
 ### Olá, Tudo bem?! 👋
 #### Seja muito bem vindo ao meu perfil!
 
-"🚀 Olá, bem-vindo ao meu mundo de tecnologia e criatividade! 🎮
+"🚀 Olá, bem-vindo ao meu mundo! 🎮
 
-Atualmente, estou embarcando em uma emocionante jornada como parte da equipe da 2U Studios, onde dedico meus esforços para criar projetos incríveis para plataformas de trabalhos remotos. 💼 Além disso, estou avançando em meus estudos em Engenharia de Software, atualmente no 5º período, para aprimorar ainda mais meus conhecimentos e habilidades.
+Atualmente, estou tenho minha empresa 2U Studios, onde dedico meus esforços para criar projetos incríveis para plataformas diversas. 💼 formado em Engenharia de Software,  para aprimorar sistemas e pós-graduado em animação digital.
 
-🌱 Sou um entusiasta da inovação e estou desempenhando trabalhos de Full-Stack e UX/UI Designer, unindo o melhor dos dois mundos: a funcionalidade impecável com uma experiência visual deslumbrante.
+🌱 Sou capacitado em trabalhos de Full-Stack e UX/UI Designer, unindo o melhor dos dois mundos: a funcionalidade impecável com uma experiência visual deslumbrante.
 
-🤔 Estou em busca de oportunidades para ganhar experiência profissional e colaborar em projetos empolgantes que possam deixar uma marca no mundo digital.
+🤔 Estou disponivel para projetos diversos.
 
-📫 Desde criança, meu coração bate mais forte pela tecnologia, especialmente na área de games. Com diversos cursos de desenvolvimento e programação de jogos digitais, tenho alimentado minha paixão ao longo dos anos e materializado minha criatividade em projetos pessoais e freelancers.
+📫 Desde criança, apaixonado por tecnologia, especialmente na área de animação e games. Com diversos cursos além de graduaçao e pós-graduação tenho desempenhado diversos projetos pessoais e freelancers com minha empresa.
 
-⚡ Curiosidades sobre mim: Sou um orgulhoso recifense, além de ser um músico profissional e um talentoso desenhista de ilustrações, animações e interfaces, elevando a estética dos meus projetos a um nível além do convencional.
+⚡ Curiosidades sobre mim: Sou recifense, além de ser um músico profissional e desenhista de animação e ilustrações, elevando a estética dos meus projetos a um nível além do convencional.
 
-Venha explorar o mundo tecnológico e artístico comigo! Estou animado para aprender, crescer e criar experiências impactantes. Vamos juntos construir o futuro digital! 🚀🎨🎵"
+Estou animado para aprender, crescer e criar experiências impactantes. Vamos juntos construir o futuro digital! 🚀🎨🎵"
 
 ##
 

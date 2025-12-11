@@ -18,13 +18,10 @@ Estou animado para aprender, crescer e criar experiências impactantes. Vamos ju
  <primeira imagem>
 <div align="center">
   <a href="https://github.com/jonhbass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonhbass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnbass&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <icones das linguagens>
 <div style="display: inline_block"><br>
- 
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />         
@@ -36,7 +33,6 @@ Estou animado para aprender, crescer e criar experiências impactantes. Vamos ju
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933502740494155797/1007060820678688768/profile-pic.png">
 </div>
 
  ##

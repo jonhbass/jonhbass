@@ -1,27 +1,26 @@
-### Olá, Tudo bem?! 👋
-#### Seja muito bem vindo ao meu perfil!
-
-Atualmente tenho minha empresa 2U Studios, onde dedico meus esforços para criar projetos incríveis para plataformas diversas. 💼 formado em Engenharia de Software,  para aprimorar sistemas e pós-graduado em animação digital.
-
-🌱 Sou capacitado em trabalhos de Full-Stack e UX/UI Designer, unindo o melhor dos dois mundos: a funcionalidade impecável com uma experiência visual deslumbrante.
-
-🤔 Estou disponivel para projetos diversos.
-
-📫 Desde criança, apaixonado por tecnologia, especialmente na área de animação e games. Com diversos cursos além de graduaçao e pós-graduação tenho desempenhado diversos projetos pessoais e freelancers com minha empresa.
-
-⚡ Curiosidades sobre mim: Sou recifense, além de ser um músico profissional e desenhista de animação e ilustrações, elevando a estética dos meus projetos a um nível além do convencional.
-
-Estou animado para aprender, crescer e criar experiências impactantes. Vamos juntos construir o futuro digital! 🚀🎨🎵"
+<div align="center"> 
+### Olá, Tudo bem?! 👋####  <br>
+Seja muito bem vindo ao meu perfil! <br>
+<br>
+* Atualmente tenho minha empresa 2U Studios, onde dedico meus esforços para criar projetos incríveis para plataformas diversas. <br>
+* formado em Engenharia de Software,  para aprimorar sistemas e pós-graduado em animação digital. <br>
+* Capacitado em trabalhos de Full-Stack e UX/UI Designer, unindo o melhor dos dois mundos: a funcionalidade impecável com uma experiência visual deslumbrante.<br>
+* Estou disponivel para projetos diversos.<br>
+* Apaixonado por tecnologia desde criança, especialmente na área de animação e games.<br>
+  Com diversos cursos além de graduaçao e pós-graduação tenho desempenhado diversos projetos pessoais e freelancers com minha empresa.<br>
+* Curiosidades sobre mim: Sou recifense, além de ser um músico profissional e desenhista de animação e ilustrações, <br>
+  elevando a estética dos meus projetos a um nível além do convencional.<br>
+* Estou animado para aprender, crescer e criar experiências impactantes. Vamos juntos construir o futuro digital! 🚀🎨🎵"<br>
 
 ##
-
+</div>
  <primeira imagem>
 <div align="center">
   <a href="https://github.com/jonhbass">
 </div>
 
 <icones das linguagens>
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />         

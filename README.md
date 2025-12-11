@@ -9,7 +9,8 @@ Seja muito bem vindo ao meu perfil! <br>
  &nbsp;&nbsp; A funcionalidade impecável com uma experiência visual deslumbrante.<br><br>
 * Estou disponivel para projetos diversos.<br><br>
 * Apaixonado por tecnologia desde criança, especialmente na área de animação e games.<br>
- &nbsp;&nbsp; Com diversos cursos além de graduaçao e pós-graduação tenho desempenhado diversos projetos pessoais e freelancers com minha empresa.<br><br>
+ &nbsp;&nbsp; Com diversos cursos além de graduaçao e pós-graduação tenho desempenhado diversos <br>
+ &nbsp;&nbsp; Projetos pessoais e freelancers com minha empresa.<br><br>
 * Curiosidades sobre mim: Sou recifense, além de ser um músico profissional e desenhista de animação e ilustrações, <br>
  &nbsp;&nbsp; Elevando a estética dos meus projetos a um nível além do convencional.<br><br>
 * Estou animado para aprender, crescer e criar experiências impactantes. Vamos juntos construir o futuro digital! 🚀🎨🎵"<br>

@@ -2,17 +2,19 @@
 ### Olá, Tudo bem?! 👋####  <br>
 Seja muito bem vindo ao meu perfil! <br>
 <br>
-* Atualmente tenho minha empresa 2U Studios, onde dedico meus esforços para criar projetos incríveis para plataformas diversas. <br>
-* formado em Engenharia de Software,  para aprimorar sistemas e pós-graduado em animação digital. <br>
-* Capacitado em trabalhos de Full-Stack e UX/UI Designer, unindo o melhor dos dois mundos: a funcionalidade impecável com uma experiência visual deslumbrante.<br>
-* Estou disponivel para projetos diversos.<br>
+  <div align= "left">
+* Atualmente tenho minha empresa 2U Studios, onde dedico meus esforços para criar projetos incríveis para plataformas diversas. <br> <br>
+* formado em Engenharia de Software, para aprimorar sistemas e pós-graduado em animação digital. <br> <br>
+* Capacitado em trabalhos de Full-Stack e UX/UI Designer, unindo o melhor dos dois mundos: <br>
+ &nbsp;&nbsp; A funcionalidade impecável com uma experiência visual deslumbrante.<br><br>
+* Estou disponivel para projetos diversos.<br><br>
 * Apaixonado por tecnologia desde criança, especialmente na área de animação e games.<br>
-  Com diversos cursos além de graduaçao e pós-graduação tenho desempenhado diversos projetos pessoais e freelancers com minha empresa.<br>
+ &nbsp;&nbsp; Com diversos cursos além de graduaçao e pós-graduação tenho desempenhado diversos projetos pessoais e freelancers com minha empresa.<br><br>
 * Curiosidades sobre mim: Sou recifense, além de ser um músico profissional e desenhista de animação e ilustrações, <br>
-  elevando a estética dos meus projetos a um nível além do convencional.<br>
+ &nbsp;&nbsp; Elevando a estética dos meus projetos a um nível além do convencional.<br><br>
 * Estou animado para aprender, crescer e criar experiências impactantes. Vamos juntos construir o futuro digital! 🚀🎨🎵"<br>
+  </div>
 
-##
 </div>
  <primeira imagem>
 <div align="center">

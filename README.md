@@ -1,8 +1,6 @@
 ### Olá, Tudo bem?! 👋
 #### Seja muito bem vindo ao meu perfil!
 
-"🚀 Olá, bem-vindo ao meu mundo! 🎮
-
 Atualmente, estou tenho minha empresa 2U Studios, onde dedico meus esforços para criar projetos incríveis para plataformas diversas. 💼 formado em Engenharia de Software,  para aprimorar sistemas e pós-graduado em animação digital.
 
 🌱 Sou capacitado em trabalhos de Full-Stack e UX/UI Designer, unindo o melhor dos dois mundos: a funcionalidade impecável com uma experiência visual deslumbrante.
